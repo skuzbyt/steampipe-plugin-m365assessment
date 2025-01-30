@@ -1,0 +1,1 @@
+# steampipe-plugin-m365assessment
